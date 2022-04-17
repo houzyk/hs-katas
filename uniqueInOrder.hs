@@ -1,4 +1,4 @@
-import Data.List (nub, group)
+import Data.List (group)
 
 uniqueInOrder :: Eq a => [a] -> [a]
 uniqueInOrder [] = []
