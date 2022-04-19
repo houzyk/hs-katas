@@ -11,3 +11,5 @@
 5. spinWords - returns the input string, but with all five or more letter words reversed.
 
 6. isSquare - returns True if given a square number
+
+7. getVowelCount - returns vowel count
