@@ -1,6 +1,6 @@
 # HS Katas
 
-1. sameCase.hs - check if two char letters are of the same case.
+1. sameCase - check if two char letters are of the same case.
 
 2. uniqueInOrder -  returns list without any elements with the same value next to each other while preserving the original order.
 
@@ -9,3 +9,5 @@
 4. rowSumOddNumbers - return sum of the numbers in the nth row of odd triangle.
 
 5. spinWords - returns the input string, but with all five or more letter words reversed.
+
+6. isSquare - returns True if given a square number
