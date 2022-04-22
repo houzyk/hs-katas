@@ -15,3 +15,5 @@
 7. getVowelCount - returns vowel count
 
 8. elem' - custom built elem function
+
+9. nub' - custom build replicating nub function from Data.List
