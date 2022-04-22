@@ -17,3 +17,5 @@
 8. elem' - custom built elem function
 
 9. nub' - custom build replicating nub function from Data.List
+
+10. isAct - returns true iff a list contains ascending integers
