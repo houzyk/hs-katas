@@ -13,3 +13,5 @@
 6. isSquare - returns True if given a square number
 
 7. getVowelCount - returns vowel count
+
+8. elem' - custom built elem function
